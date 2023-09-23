@@ -1,0 +1,19 @@
+{
+  "name": "devopsday-automation-release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven130169/automation-release.git"
+  },
+  "author": "Steven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven130169/automation-release/issues"
+  },
+  "homepage": "https://github.com/steven130169/automation-release#readme"
+}
