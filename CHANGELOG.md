@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/steven130169/automation-release/compare/v1.2.0...v1.3.0) (2023-09-24)
+
+
+### Features
+
+* add semantic-release/github ([22d6695](https://github.com/steven130169/automation-release/commit/22d6695ca014d567e3c3121cc89aad69ae184bd0))
+
 # [1.2.0](https://github.com/steven130169/automation-release/compare/v1.1.0...v1.2.0) (2023-09-24)
 
 
