@@ -1,5 +1,9 @@
 # automation-release
 
+
+## Semantic Release
+
+
 ```javascript
 //release.config.js
 module.exports = {
