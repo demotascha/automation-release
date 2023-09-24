@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/steven130169/automation-release/compare/v1.1.0...v1.2.0) (2023-09-24)
+
+
+### Features
+
+* add READEME.md semantic release ([1941cfa](https://github.com/steven130169/automation-release/commit/1941cfa313cdaef051b1b86d8212ee78e3044340))
+
 # [1.1.0](https://github.com/steven130169/automation-release/compare/v1.0.0...v1.1.0) (2023-09-24)
 
 
