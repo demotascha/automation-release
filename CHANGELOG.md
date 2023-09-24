@@ -1,3 +1,31 @@
+# [1.1.0](https://github.com/steven130169/automation-release/compare/v1.0.0...v1.1.0) (2023-09-24)
+
+
+### Features
+
+* change release.config.js ([274da19](https://github.com/steven130169/automation-release/commit/274da19cdfecd31431f5283c8aa379f8e3542175))
+
+# [1.1.0](https://github.com/steven130169/automation-release/compare/v1.0.0...v1.1.0) (2023-09-24)
+
+
+### Features
+
+* change release.config.js ([274da19](https://github.com/steven130169/automation-release/commit/274da19cdfecd31431f5283c8aa379f8e3542175))
+
+# [1.1.0](https://github.com/steven130169/automation-release/compare/v1.0.0...v1.1.0) (2023-09-24)
+
+
+### Features
+
+* change release.config.js ([274da19](https://github.com/steven130169/automation-release/commit/274da19cdfecd31431f5283c8aa379f8e3542175))
+
+# [1.1.0](https://github.com/steven130169/automation-release/compare/v1.0.0...v1.1.0) (2023-09-24)
+
+
+### Features
+
+* change release.config.js ([274da19](https://github.com/steven130169/automation-release/commit/274da19cdfecd31431f5283c8aa379f8e3542175))
+
 # 1.0.0 (2023-09-23)
 
 
